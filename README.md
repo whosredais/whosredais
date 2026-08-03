@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 
-- 🎓 2nd-year Engineering student in **Computer Engineering and Emerging Technologies (IITE)** at **ENSAJ** (École Nationale des Sciences Appliquées d'El Jadida).
+- 🎓 3rd-year Engineering student in **Computer Engineering and Emerging Technologies (IITE)** at **ENSAJ** (École Nationale des Sciences Appliquées d'El Jadida).
 - 💡 Passionate about technological innovation, solving complex problems, and designing impactful, scalable solutions.
 - 🚀 Actively engaged in extracurriculars, association life, and event organization, developing strong leadership, team management, and project coordination skills.
 - 💼 Experienced in developing diverse projects spanning across **Microservices, AI, Cloud, Android, and Web3/Blockchain**.
