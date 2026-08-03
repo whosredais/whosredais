@@ -18,7 +18,7 @@
 ## 💫 About Me
 
 - 🎓 3rd-year Engineering student in **Computer Engineering, AI & Emerging Technologies** at **ENSAJ** (Morocco).
-- 💼 Currently developing professional skills as a **Full-Stack & AI Developer** (Recent experience at *CIRCET Morocco*).
+- 💼 Currently developing professional skills as a **Full-Stack & AI Developer**.
 - 💡 Passionate about technological innovation, solving complex problems, and designing impactful, scalable solutions.
 - 🚀 Actively engaged in extracurriculars, association life, and event organization, developing strong leadership, team management, and project coordination skills.
 - 💻 Experienced in developing diverse projects spanning across **Microservices, AI, Cloud, Android, and Web3/Blockchain**.
@@ -31,16 +31,6 @@
   <a href="https://www.linkedin.com/in/mohamed-reda-boujir-a62087294/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohamedredaboujir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-- 🤖 **[AI Resume Analyzer](https://github.com/whosredais/AI_Resume_Analyzer)** : Intelligent CV analysis application to optimize HR processes using React, FastAPI, PostgreSQL, and Gemini AI.
-- 🎙️ **[VoiceGuard.AI](https://github.com/whosredais/VoiceGuard.AI)** : Synthetic voice cloning detection model based on Wav2Vec and Deep Learning.
-- 🎬 **[CineHub](https://github.com/whosredais/CineHub)** : Native Android MVVM application built with Jetpack Compose & Kotlin integrating TMDB API.
-- 📊 **[HR Assessment Platform](https://github.com/whosredais/HR__Assessment_Management_)** : Full-stack MERN application for internal mobility evaluation tests.
-- 📚 **Decentralized AI & Blockchain Library** : Web3 platform managing smart contracts and AI recommendation systems.
 
 ---
 
