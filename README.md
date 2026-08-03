@@ -1,5 +1,11 @@
 <h1 align="center">Hi there, I'm Mohamed Reda Boujir 👋</h1>
-<h3 align="center">Software Engineering Student at ENSAJ | Cloud, AI & Full Stack Enthusiast</h3>
+<h3 align="center">Software Engineering Student at ENSAJ | AI, Big Data & Full-Stack Developer</h3>
+
+<p align="center">
+  <a href="https://mohamed-reda-boujir.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
@@ -11,20 +17,30 @@
 
 ## 💫 About Me
 
-- 🎓 3rd-year Engineering student in **Computer Engineering and Emerging Technologies (IITE)** at **ENSAJ** (École Nationale des Sciences Appliquées d'El Jadida).
+- 🎓 3rd-year Engineering student in **Computer Engineering, AI & Emerging Technologies** at **ENSAJ** (Morocco).
+- 💼 Currently developing professional skills as a **Full-Stack & AI Developer** (Recent experience at *CIRCET Morocco*).
 - 💡 Passionate about technological innovation, solving complex problems, and designing impactful, scalable solutions.
 - 🚀 Actively engaged in extracurriculars, association life, and event organization, developing strong leadership, team management, and project coordination skills.
-- 💼 Experienced in developing diverse projects spanning across **Microservices, AI, Cloud, Android, and Web3/Blockchain**.
-- 📫 Let's connect! Feel free to reach out to me on my socials below.
+- 💻 Experienced in developing diverse projects spanning across **Microservices, AI, Cloud, Android, and Web3/Blockchain**.
+- 📫 Let's connect! Check out my work on my portfolio or reach out on my socials below.
 
 ## 🌐 Connect with Me
 
 <p align="left">
+  <a href="https://mohamed-reda-boujir.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mohamed-reda-boujir-a62087294/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/whosredais"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/whosredais"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://codepen.io/whosredais"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" /></a>
+  <a href="mailto:mohamedredaboujir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🤖 **[AI Resume Analyzer](https://github.com/whosredais/AI_Resume_Analyzer)** : Intelligent CV analysis application to optimize HR processes using React, FastAPI, PostgreSQL, and Gemini AI.
+- 🎙️ **[VoiceGuard.AI](https://github.com/whosredais/VoiceGuard.AI)** : Synthetic voice cloning detection model based on Wav2Vec and Deep Learning.
+- 🎬 **[CineHub](https://github.com/whosredais/CineHub)** : Native Android MVVM application built with Jetpack Compose & Kotlin integrating TMDB API.
+- 📊 **[HR Assessment Platform](https://github.com/whosredais/HR__Assessment_Management_)** : Full-stack MERN application for internal mobility evaluation tests.
+- 📚 **Decentralized AI & Blockchain Library** : Web3 platform managing smart contracts and AI recommendation systems.
 
 ---
 
@@ -102,9 +118,10 @@
     * Certified AI Foundations Associate
     * Generative AI Professional
 * **AWS Academy Graduate:**
+    * Machine Learning Foundations
     * Cloud Security Foundations
     * AWS Academy Cloud Foundations
-* **HackerRank:** SQL (Intermediate & Advanced)
+* **HackerRank:** SQL (Advanced)
 
 ---
 
