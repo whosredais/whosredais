@@ -1,126 +1,117 @@
-<h1 align="center">Hi there, I'm Mohamed Reda Boujir 👋</h1>
-<h3 align="center">Software Engineering Student at ENSAJ | AI, Big Data & Full-Stack Developer</h3>
+<h1 align="center">Hi, I'm Mohamed Reda Boujir 👋</h1>
+<h3 align="center">Final-year Engineering Student | AI, Data & Software Engineering</h3>
 
 <p align="center">
-  <a href="https://mohamed-reda-boujir.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  ENSA El Jadida, Morocco · Engineering degree in progress · Expected graduation: 2027
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=whosredais&icon=0&color=0" alt="Profile Views">
-  </a>
+  <a href="https://mohamed-reda-boujir.vercel.app/en">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/mohamed-reda-boujir-a62087294/">LinkedIn</a> ·
+  <a href="mailto:boujirmohamedreda@gmail.com">Email</a> ·
+  <a href="https://mohamed-reda-boujir.vercel.app/cv/en/IA_Data/CV_BOUJIR_Mohamed_Reda.pdf">Download CV</a>
 </p>
+
+> **Seeking a six-month final-year internship (PFE) starting January 11, 2027.**  
+> Based in Casablanca, Morocco, and open to Rabat. Internship agreement available.
+
+## About me
+
+I build applications that connect data, AI models and user needs. Through **two internships at CIRCET Morocco**, I worked on HR applications, LLM-powered resume analysis, a document-grounded RAG assistant and data dashboards.
+
+My interests include **AI engineering, data pipelines and backend development**: understanding how a system works, evaluating its behavior and documenting its limitations.
+
+## Experience
+
+### CIRCET Morocco — AI, Data & Full Stack Intern
+*June–August 2026 · Casablanca*
+
+- Developed resume information extraction and matching features with **Gemini API, FastAPI and PostgreSQL**, integrated with a React interface.
+- Improved candidate filtering and built **Metabase dashboards** for HR reporting.
+- Developed a **RAG assistant** combining semantic retrieval and LLM responses with document and page citations.
+
+### CIRCET Morocco — Full Stack Web Development Intern
+*June–July 2025 · Casablanca*
+
+- Built an HR assessment platform with **React, Node.js, Express and MongoDB**, supporting multiple-choice and open-ended questions.
+- Implemented **JWT authentication**, unique access codes and automated **PDF/Excel exports**.
+
+## Featured projects
+
+| Project | What I built | Main technologies |
+| --- | --- | --- |
+| [Real-Time Big Data Pipeline](https://github.com/whosredais/realtime-bigdata-streaming-lakehouse) | A containerized workflow connecting log ingestion, stream processing, distributed storage and observability. | Python, Kafka, Spark, Hadoop HDFS, Airflow, Docker |
+| [Document-grounded RAG Assistant](https://github.com/whosredais/Assistant-IA-TechCorp) | An assistant with semantic document retrieval, inspectable citations and a document management interface. | LangChain, Llama-3, Qdrant, FastAPI, Next.js |
+| [VoiceGuard.AI](https://github.com/whosredais/VoiceGuard.AI) | Audio deepfake classification connected to a web application, with model evaluation using F1 and EER. | PyTorch, Wav2Vec 2.0, FastAPI, Spring Boot, React |
+| [AI Resume Analyzer](https://github.com/whosredais/AI_Resume_Analyzer) | Resume information extraction, matching, candidate search and HR dashboards. | Gemini API, FastAPI, PostgreSQL, React, Metabase |
+| [Smart Logistics](https://github.com/whosredais/smart-logistics-ai) | A delivery-routing prototype with geographic clustering, order and fleet services, and asynchronous messaging. | Spring Boot, Python, RabbitMQ, PostgreSQL/PostGIS, Next.js |
+
+**[Explore the architecture, screenshots and limitations of these projects →](https://mohamed-reda-boujir.vercel.app/en#projects)**
+
+<details>
+<summary>More projects: evaluation, distributed systems, BI, mobile and Web3</summary>
+
+- [SmartContractTestLab-LLM — case study](https://mohamed-reda-boujir.vercel.app/en/projects/smartcontract-testlab): defensive LLM benchmarking on annotated Solidity contracts, with PostgreSQL results and Metabase comparisons.
+- [SimMongoDB](https://github.com/whosredais/SimMongoDB): an educational FastAPI/React simulator for sharding, replica sets and primary elections.
+- [Hospital Data Warehouse — case study](https://mohamed-reda-boujir.vercel.app/en/projects/hospital-bi): dimensional modeling, ETL and business intelligence with SQL Server, SSIS/SSAS and Tableau.
+- [BlockLibrary](https://github.com/whosredais/BlockLibrary): decentralized book management and collaborative-filtering recommendations with Solidity, IPFS and Web3.js.
+- [HR Assessment Platform](https://github.com/whosredais/HR__Assessment_Management_): questionnaires, authentication, access codes and results exports.
+- [CineHub](https://github.com/whosredais/CineHub): a native Android movie application with Jetpack Compose, MVVM, Room and Retrofit.
+- [SpringRide](https://github.com/whosredais/Spring_ride): carpooling backend with Spring Boot, Spring Security and MySQL.
+
+</details>
+
+## Technical toolkit
+
+- **AI & Data Engineering:** Python, Pandas, NumPy, PyTorch, Scikit-learn, LangChain, RAG, Qdrant, Kafka, Spark, Hadoop/HDFS, Airflow.
+- **Backend & Interfaces:** FastAPI, Java/Spring Boot, Spring Security, Node.js/Express, React, Next.js, JavaScript, TypeScript, REST APIs.
+- **Databases & BI:** SQL, PostgreSQL, MySQL, MongoDB, SQL Server, CloverETL, SSIS, SSAS, Tableau, Metabase.
+- **Cloud & Tooling:** Docker, Git, Linux, AWS and Oracle Cloud Infrastructure.
+
+Currently strengthening **agent orchestration and n8n**; familiar with **Kubernetes and CI/CD workflows**.
+
+<details>
+<summary>Additional technologies used in mobile and Web3 projects</summary>
+
+Kotlin, Jetpack Compose, Room, Retrofit, Solidity, Ethereum, IPFS and Web3.js.
+
+</details>
+
+## Certifications & training
+
+### Oracle certifications
+
+- [Oracle Certified Professional: Java SE 17 Developer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DB60D088B16E89F665D13F01DB9093013E1361A5EE38E77AF5251CC9F79AC355)
+- [Oracle Cloud Infrastructure 2025 Generative AI Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=425C0957AB4A23EEE663B6D1417A1D6DCF8C9C5E40E0DACCACA5163E704D614F)
+- [Oracle Cloud Infrastructure 2025 Certified Developer Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=371E9198C3EF7F8D36BF71C685C719476321DA3ACF48AC7F8A1A773BB676921B)
+- [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0EA58F2357D9727E44B619356C1689E3095657976B33F82D097B08CD75F1F37B)
+
+### AWS Academy — course-completion badges
+
+- [Data Engineering](https://www.credly.com/badges/0ce263c2-a7ac-4c4d-b174-b92c78221bc3/public_url)
+- [Cloud Developing](https://www.credly.com/badges/a42979bb-7980-4afa-98ba-d7a923b88da9/public_url)
+- [Machine Learning for Natural Language Processing](https://www.credly.com/badges/17834955-8d5a-41de-aac7-ea17f096bd47/public_url)
+
+<details>
+<summary>Additional AWS Academy training</summary>
+
+- [Machine Learning Foundations](https://www.credly.com/badges/ccaf5745-747c-4e14-83b0-c74deff3bca6/public_url)
+- [Cloud Security Foundations](https://www.credly.com/badges/62601e25-72c0-40fe-9b9e-5d1a3040d741/public_url)
+- [Cloud Foundations](https://www.credly.com/badges/f1cbe06f-bfaf-4b3e-9dd8-fa4510c2988e/public_url)
+
+</details>
+
+### Skills assessment
+
+- [HackerRank SQL — Advanced](https://www.hackerrank.com/certificates/5c5af8cbab97)
+
+## Beyond code
+
+- Organizer of the **ENSAJ Entreprises Forum 2025**.
+- Finalist in **Innovative Game Ideas**.
+- **Languages:** Arabic (native), French (fluent), English (technical working proficiency).
 
 ---
 
-## 💫 About Me
-
-- 🎓 3rd-year Engineering student in **Computer Engineering, AI & Emerging Technologies** at **ENSAJ** (Morocco).
-- 💼 Currently developing professional skills as a **Full-Stack & AI Developer**.
-- 💡 Passionate about technological innovation, solving complex problems, and designing impactful, scalable solutions.
-- 🚀 Actively engaged in extracurriculars, association life, and event organization, developing strong leadership, team management, and project coordination skills.
-- 💻 Experienced in developing diverse projects spanning across **Microservices, AI, Cloud, Android, and Web3/Blockchain**.
-- 📫 Let's connect! Check out my work on my portfolio or reach out on my socials below.
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://mohamed-reda-boujir.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-reda-boujir-a62087294/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mohamedredaboujir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-## 💻 Tech Stack & Tools
-
-### 🖥️ Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%230074c1.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-</p>
-
-### 🌐 Frontend & Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Dev" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
-</p>
-
-### ⚙️ Backend & Architecture (Microservices/APIs)
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
-</p>
-
-### 🗄️ Databases & BI
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
-</p>
-
-### ☁️ Cloud, DevOps & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-### 🧠 AI, Machine Learning & Data
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-F9AB00?style=for-the-badge&logo=google&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-00599C?style=for-the-badge" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" alt="Gen AI & LLMs" />
-</p>
-
-### 🔗 Blockchain & Web3
-<p align="left">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge" alt="Web3.js" />
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=IPFS&logoColor=white" alt="IPFS" />
-</p>
-
----
-
-## 🏆 Certifications
-
-* **Oracle Certified Professional:** Java SE 17 Developer
-* **Oracle Cloud Infrastructure 2025:**
-    * Certified Developer Professional
-    * Certified AI Foundations Associate
-    * Generative AI Professional
-* **AWS Academy Graduate:**
-    * Machine Learning Foundations
-    * Cloud Security Foundations
-    * AWS Academy Cloud Foundations
-* **HackerRank:** SQL (Advanced)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whosredais&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whosredais&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whosredais&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+**Interested in discussing a PFE opportunity or one of my projects?**  
+Reach me at **[boujirmohamedreda@gmail.com](mailto:boujirmohamedreda@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/mohamed-reda-boujir-a62087294/)**.
